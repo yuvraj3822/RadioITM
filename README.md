@@ -14,7 +14,7 @@
 Problem I faced during in the media player is 
 * After releiving the player resources and stopping it still retain the instance.
 
-Shortcut I used is 
+Shortcut used is 
 * I didnt used the seprate Repository class for the api call or local data. Just called directly in the viewmodel
 
 Things that could be used in this are
