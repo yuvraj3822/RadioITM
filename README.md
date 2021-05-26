@@ -1,10 +1,10 @@
 # RadioITM
 *This application basically performs the 2 function streaming the audio and displaying the current and recent list of tracks.
 
-*In this application MVVM, Coroutines and Room Persistence Data has been used in Kotlin
-*Here in the splash screen api is being called and stored in database
-*Where in the dashboard it represent the data saved in Db
-*To have the recent data it also has the pull to refresh
+* In this application MVVM, Coroutines and Room Persistence Data has been used in Kotlin
+* Here in the splash screen api is being called and stored in database
+* Where in the dashboard it represent the data saved in Db
+* To have the recent data it also has the pull to refresh
 
 *Audio streaming is done via media player
 *Foreground service is being used to play the audio
